@@ -24,7 +24,6 @@ Core analytical fields (examples):
 - `session_type` (e.g., Diagnostic / Intervention / Consolidation / Stress-test)
 - `global_session_severity` (TEIA global severity, 1–5)
 - `n_level` (N1 / N2 / N3 / Mixed / Unclear)
-- `outcome` (e.g., Improved / Neutral / Worse / Unclear)
 - optional cycle markers (`cycle`, `cycle_session`)
 
 ### 3) Protocols
