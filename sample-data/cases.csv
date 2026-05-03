@@ -1,1 +1,4 @@
-
+case_id,client_alias,case_type,stage,start_date
+CORP_001,Client A,CORP,Cycle 2 Active,2026-03-01
+CORP_002,Client B,CORP,Cycle 1 Active,2026-04-01
+CORP_003,Client C,CORP,Intake,2026-04-20
