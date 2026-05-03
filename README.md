@@ -7,7 +7,10 @@ This is a public portfolio repository documenting a BI-friendly operational data
 - dashboard-ready structure
 
 > Privacy note: no real client data is published here. The dataset in [`sample-data/`](sample-data/) is fictional. See [`docs/06-privacy.md`](docs/06-privacy.md).
+## Screenshots (Notion demo, fictional data)
+![Demo dashboard](images/notion-demo-dashboard.png)
 
+![Demo sessions table](images/notion-demo-sessions-table.png)
 ---
 
 ## What’s inside
