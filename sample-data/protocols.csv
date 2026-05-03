@@ -1,1 +1,6 @@
-
+protocol_id,protocol_name,family,status,targets
+RT04_CORE_DETAIL,RT-04 Core to Detail,RT,Active,Conciseness;Continuity
+P0607_DONT_RESTART,P06.07 Dont Restart,P-family,Active,Repair;Continuity
+P0606_RETRY,P06.06 Retry Protocol,P-family,Active,Repair
+RT05_RESET_NUCLEUS,RT-05 Reset / Nucleus First,RT,Active,Entry;Repair
+P0506_WHAT_IF,P05.06 What if (controlled perturbation),P-family,Experimental,Stress-test;Continuity
